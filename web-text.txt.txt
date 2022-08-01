@@ -1,0 +1,9 @@
+Number 1 Solutions
+
+a,Elements are a set of tags and attributes.
+
+e,Web Accessibility refers to html element tags that easy the use of web pages to the disabled ones.
+
+f,Web server 
+
+d,Semantic elements these include lists and tables
